@@ -1,7 +1,7 @@
 {
 	"name": "LabDansen_Updated",
 	"author": "object-Object",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"title": "LabDansen Updated",
 	"description": "Replaces lab vanilla sounds. Best used with DiscoScience",
 	"dependencies": ["base", "? DiscoScience"],
