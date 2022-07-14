@@ -1,8 +1,8 @@
 {
-	"name": "LabDansen",
-	"author": "ThornHorn",
+	"name": "LabDansen Updated",
+	"author": "object-Object",
 	"version": "1.0.0",
-	"title": "LabDansen",
+	"title": "LabDansen Updated",
 	"description": "Replaces lab vanilla sounds. Best use with DiscoScience",
 	"dependencies": ["base", "? DiscoScience"],
 	"factorio_version": "1.1"
