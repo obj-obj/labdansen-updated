@@ -1,7 +1,7 @@
 -- The Lab
 data.raw["lab"]["lab"].working_sound = {
     sound = {
-        filename = "__LabDansen__/sounds/Lab_Dansen.ogg",
+        filename = "__LabDansen_Updated__/sounds/Lab_Dansen.ogg",
         volume = 0.5
     },
     idle_sound = {
